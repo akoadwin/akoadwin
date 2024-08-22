@@ -1,5 +1,7 @@
+ <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 
-# [![Mobile](https://img.icons8.com/?size=100&id=79062&format=png&color=000000)] Aspiring Flutter Developer
+#  Aspiring Flutter Developer
+  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/useradwin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/godwin-mat-ao-1b421925b/) 
